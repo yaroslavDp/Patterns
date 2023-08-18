@@ -1,4 +1,4 @@
-# BSA patterns practices and principles homework starter
+# BSA patterns practices and principles homework
 
 ## Info
 
